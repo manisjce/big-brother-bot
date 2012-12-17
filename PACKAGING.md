@@ -1,7 +1,7 @@
 BigBrotherBot (B3) packaging documentation
 ==========================================
 
-C3 is distributed as different packages :
+D3 is distributed as different packages :
 
   - python sources package
   - python egg package
